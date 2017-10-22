@@ -33,7 +33,7 @@ traducción.)
 
 Afortunadamente, _Silicon Valley_, esa fuente inagotable de conceptos
 berreta y paradigmas dudosos --de wiki-todo a i-algo, de e-nada a
-cualquier-cosa-abierta-- esta lista para ayudar.  Como un buen cura,
+cualquier-cosa-abierta-- está lista para ayudar.  Como un buen cura,
 está siempre disponible para consolarnos con la promesa de un futuro
 mejor, un plan más brillante, un vocabulario más pulcro.  Esto no niega
 que muchos de los últimos dispositivos y _apps_ sean fantásticos.  Pero
@@ -53,8 +53,8 @@ cafeterías al aire libre, nuestros ministros digitales están empezando a
 predicar sobre asuntos que sobrepasan el mundo de los drones, las
 impresoras 3D y los cepillos de dientes inteligentes.  Que eventualmente
 fuéramos robadas de un lenguaje con significado para discutir sobre
-tecnología era predecible.  Que el imperialismo conceptual de _Silicon
-Valley_ terminaría contaminando el resto de nuestro vocabulario no lo
+tecnología era predecible, que el imperialismo conceptual de _Silicon
+Valley_ terminaría contaminando el resto de nuestro vocabulario, no lo
 era.
 
 La duradera vacuidad de nuestros debates sobre la tecnología tiene una
@@ -85,7 +85,7 @@ cambio tecnológico.  Su [ensayo sobre la "web
 2.0"](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839)
 elucidó una filosofía básica sobre Internet de forma accesible tanto a
 académicas como a capitalistas de riesgo y cuenta más de [seis mil
-referencias en _Google Scholar_](http://ur1.ca/q6xnx).  Nada mal para un
+referencias en _Google Scholar_](http://ur1.ca/q6xnx)...  Nada mal para un
 autor no académico.  También [invierte en
 _startups_](http://oatv.com/portfolio.html) --las mismas que celebra en
 su actividad pública-- a través de un [fondo de
@@ -95,7 +95,7 @@ su propio nombre.
 [^autor]: Al hacer investigación para este ensayo, intenté leer todas
 las publicaciones de O'Reilly: artículos en su blog, ensayos, _tweets_.
 He leído muchas de sus entrevistas y comentarios que ha dejado en blogs
-y sitios de noticias.  Miré todas sus charlas en _YouTube_.  Pero decidí
+y sitios de noticias.  Miré todas sus charlas en _YouTube_, pero decidí
 no entrevistarlo.  En primer lugar, no creo en entrevistar a _spin
 doctors_: la entrevistadora no aprende nada nuevo mientras la
 entrevistada obtiene una oportunidad extraordinaria para darle un giro
@@ -103,7 +103,7 @@ entrevistada obtiene una oportunidad extraordinaria para darle un giro
 lugar, mi objetivo al escribir este ensayo no era hacer un perfil de
 O'Reilly.  Por supuesto, podría contar sobre las maravillosas mermeladas
 que hace en su tiempo libre --ciruela, frutos rojos, durazno.  Dejé
-fuera estas cosas a propósito, porque mi interés principal es O'Reilly
+fuera estas cosas a propósito porque mi interés principal es O'Reilly
 como pensador, no como ser humano.  Las pensadoras serias pueden ser
 juzgadas solo por sus publicaciones.  En tercero, los únicos dos correos
 electrónicos que alguna vez recibí de su parte me dieron una pista sobre
@@ -120,8 +120,8 @@ artículos y ensayos.  Habiendo dicho esto, no tengo dudas que todo lo
 que diga este ensayo va a ser vuelto contra mí.
 
 Estilizado y suave auto-promotor con una visión filosófica sobre todo,
-O'Reilly es el Bernard-Henri Levy de la Ruta 101 y el filósofo de la
-corte favorito de las elites _TED_.  Su impresionante estatura
+O'Reilly es el Bernard-Henri Levy de la Ruta 101 y el filósofo favorito de la
+corte de las elites _TED_.  Su impresionante estatura
 intelectual en el valle probablemente pueda ser atribuida al simple
 hecho de que está mejor leído que el tecno-emprendedor promedio.  Sus
 constantes referencias a los educados hombres del pasado --desde
@@ -211,7 +211,7 @@ por las grandes compañías, son las pequeñas las que mantienen viva la
 libertad, donde la economía es al menos uno de los campos de batalla".
 Esta tendencia a ver los problemas de la libertad a través de la lente
 de la competencia económica, poniendo el foco en el productor y el
-emprendedor a expensas de todas las demás, configura el pensamiento de
+emprendedor a expensas de todo lo demás, configura el pensamiento de
 O'Reilly sobre la tecnología.
 
 Sin embargo, no es la política lo que vuelve a O'Reilly el hombre más
@@ -302,13 +302,13 @@ otra forma ignoraría".
 Lo que apuntalaba al proyecto de Stallman era una crítica profunda al
 rol de las regulaciones de patentes que se habían convertido en retenes
 para la innovación y la creatividad.  Tal vez sin darse cuenta, Stallman
-argumentaba prescientemente sobre por qué el código y más ampliamente
+argumentaba precisamente sobre por qué el código y más ampliamente,
 la infraestructura tecnológica, debía estar sometido al escrutinio
 público.  Buscaba abrir las cajas negras tecnológicas que las
 corporaciones conspiraban por mantener cerradas.  Si sus esfuerzos
 hubieran sido exitosos, podríamos estar viviendo en un mundo donde las
 complejidades del software utilizado en la bolsa o la identificación
-biométrica no presentaran mayores misterios.
+biométrica no presentaran misterios.
 
 Stallman es bastante idiosincrático, para decirlo levemente, y muchas
 geeks no comparten su agenda.  Muchas desarrolladoras contribuyen a
@@ -325,7 +325,7 @@ Tiemann en
 1999](http://oreilly.com/openbook/opensources/book/tiemans.html),
 mientras que el manifiesto de Stallman "se leía como una polémica
 socialista [...] percibí algo diferente.  Vi un plan de negocios
-disfrazado." La militancia por los derechos que hacía Stallman, sin
+disfrazado." La militancia por los derechos que hacía Stallman sin
 embargo, ponía en riesgo el interés corporativo.  A Stallman no le
 importaba ofender a la gente de traje, porque su objetivo era convencer
 a las usuarias ordinarias para que elijan el software libre por motivos
@@ -336,7 +336,7 @@ negocios.
 
 Para principios de 1998 varios miembros de la comunidad del software
 libre con mente de negocios estaban listos para separarse de Stallman,
-por lo que planearon un golpe, formando su propio espacio de activismo
+por lo que planearon un golpe formando su propio espacio de activismo
 --la _Open Source Iniciative_ \[Iniciativa por el Código Abierto\]--,
 trayendo a O'Reilly para ayudarles en el cambio de marca.  El tiempo era
 el correcto.  _Netscape_ acababa de rendirse ante _Microsoft_ en las
@@ -359,21 +359,21 @@ colaborativa de producir software.  (En 1999, O'Reilly lo convirtió en
 un exitoso libro.)  Poniendo énfasis en su naturaleza altamente
 distribuida, Raymond capturó la esencia del software _open source_ en
 forma de un gran paradigma que podía atraer tanto a consultores de
-McKinsey como a académicas de izquierda.
+McKinsey. como a académicas de izquierda.
 
 Aun antes del golpe, O'Reilly ocupaba un lugar ambiguo y comercialmente
 esencial en la comunidad del software libre.  Por un lado, publicaba
 manuales que ayudaban a entrenar a las nuevas conversas a la causa.  Por
-otro, esos manuales eran caros.  También eran de excelente calidad, lo
-que, como se quejaba Stallman, desalentaban a la comunidad de producir
-alternativas más baratas.  En última instancia, sin embargo, el
-desacuerdo entre Stallman y O'Reilly --siendo que este último se
+otro, esos manuales eran caros.  También eran de excelente calidad lo
+que, como se quejaba Stallman, desalentaba a la comunidad de producir
+alternativas más baratas.  En última instancia sin embargo, el
+desacuerdo entre Stallman y O'Reilly --siendo que éste último se
 convertiría muy pronto en el animador más visible del paradigma del
 _open source_-- probablemente haya tenido que ver con sus muy diferentes
 roles y aspiraciones.  Stallman como reformista social podía esperar
 décadas hasta que sus argumentos éticos en favor del software libre
-prevaleciesen en el debate público.  O'Reilly el hombre de negocios
-inteligente tenía un tiempo más corto:  la adopción rápida del software
+prevalecieran en el debate público.  O'Reilly, el hombre de negocios
+inteligente, tenía un tiempo más corto:  la adopción rápida del software
 _open source_ por la comunidad empresarial garantizaba una demanda
 estable por los libros y eventos de O'Reilly, especialmente en un
 momento donde algunos analistas empezaban a preocuparse --y con buenas
@@ -391,7 +391,7 @@ cambio, todo el énfasis estuvo puesto en cómo se estaban persiguiendo
 esos fines, es decir de forma totalmente decentralizada, utilizando
 plataformas de Internet, con poca coordinación central.  En contraste
 con el software libre, el _open source_ no tenía un componente moral
-obvio.  Según Raymond, "el _open source_ no es un problema
+obvio.  Según Raymond "el _open source_ no es un problema
 particularmente moral o legal, porque [...] conduce a mejores resultados
 en cuestión de ingeniería y términos económicos".  O'Reilly concurría.
 "No creo que sea un problema religioso.  Se trata más bien de cómo
@@ -431,21 +431,21 @@ del 2003.
 "libertad" --al menos no en el sentido que le daba Stallman.  A O'Reilly
 solo le importaba un tipo de libertad: la libertad de las
 desarrolladoras de distribuir software en los términos que quisieran.
-Esta era la libertad del productor, el emprendedor randiano, que debe
-ser dejado tranquilo para innovar, sin ser perturbado por las leyes ni
+Esta era la libertad del productor, el emprendedor randiano que debe
+ser dejado tranquilo para innovar sin las perturbaciones de las leyes ni
 la ética.  La libertad más importante, como dijo O'Reilly en un
 intercambio con Stallman, es aquella que protege "mi libertad en tanto
-creador para darte, o no darte, los frutos de mi trabajo a vos la
-'usuaria' de ese trabajo y de vos como usuaria, de aceptar o rechazar
+creador para darte o no darte, los frutos de mi trabajo a vos, la
+'usuaria' de ese trabajo, y de vos como usuaria, de aceptar o rechazar
 los términos en los que cedo mi regalo".
 
 Esto era un hondo contraste con el plan de Stallman para recortar --a
 través de la ética y algún día por las leyes-- la libertad de las
-desarrolladoras para en cambio promover la libertad de las usuarias.
+desarrolladoras para en cambio, promover la libertad de las usuarias.
 O'Reilly se opuso a este programa:  "Apoyo completamente el derecho de
 Richard \[Stallman\] o de cualquier autora individual de disponibilizar
 su trabajo bajo los términos de la GPL; pongo el freno cuando dicen que
-otras que no lo hacen están equivocadas".  Lo correcto, para él, es
+otras que no lo hacen están equivocadas".  Lo correcto para él es
 dejar en paz a las desarrolladoras.  "Estoy dispuesto a aceptar
 cualquier argumento que diga que hay ventajas y desventajas sobre
 cualquier método de licenciamiento. [...]  Mi posición moral es que la
@@ -461,8 +461,8 @@ infiltrado en los debates sobre políticas públicas una vez que el
 elegido.  Los estados son empujados constantemente a hacer cosas que a
 alguien en el sector privado no le gustaría, ¿por qué la industria del
 software debería ser especial?  La promoción de la responsabilidad
-pública o la mejora de la seguridad de la red podrían disromper el
-modelo de negocios de alguien, ¿pero qué importa?  Una vez que el
+pública o la mejora de la seguridad de la red podrían disrumpir el
+modelo de negocios de alguien, pero ¿qué importa?  Una vez que el
 término _open source_ entró en nuestro vocabulario, pudimos
 re-interpretar el cálculo completo de las políticas públicas en términos
 muy diferentes.  De esta forma, en lugar de discutir sobre el interés
@@ -500,7 +500,7 @@ derivaban de su visión de una buena vida mediada por la tecnología.  En
 otras palabras, las licencias solo eran el medio para permitir el único
 fin que les importaba a las defensoras del software libre: la libertad.
 Una colección diferente de prácticas tecnológicas (por ejemplo,
-remplazar el software que corre en computadoas por software que corre en
+remplazar el software que corre en computadoras por software que corre en
 la nube) podrían haber construido fácilmente unos medios diferentes de
 garantizar esa libertad.
 
@@ -529,8 +529,8 @@ sistema operativo-- pero fueron las que probaron la regla.
 [^nube]: De hecho lo fueron, ver por ejemplo "Libertad en la nube,
 Libertad del Software, Privacidad y Seguridad para la Web 2.0 y
 Computación en la Nube" de Eben Moglen
-<https://endefensadelsl.org/libertad_en_la_nube.html> (nota de la
-traducción).
+<https://endefensadelsl.org/libertad_en_la_nube.html> (nota de las
+editoras).
 
 Para maximizar el atractivo y la legitimidad de este nuevo paradigma,
 O'Reilly tuvo que establecer el _open source_ como antecesor del
@@ -553,7 +553,7 @@ humanos"-- en esta oración y se vuelve claro que esta misión por una
 "apertura" fue políticamente ineficaz desde el comienzo.  ¿Y qué pasa si
 a tu interlocutora no le importan para nada las ventajas competitivas?
 El término _open source_ no fue inventado por O'Reilly.  Christine
-Peterson, la co-fundadora del _Foresight Instituto_ (un _think tank_ de
+Peterson, la co-fundadora del _Foresight Institute_ (un _think tank_ de
 nano-tecnología), lo acuñó en una sesión de _brainstorming_ en febrero
 de 1998 que había sido convocada como reacción a la liberación del
 código fuente del navegador web de _Netscape_, _Navigator_.  Pocas
@@ -584,7 +584,7 @@ mercado sabe más!-- siempre y cuando cualquiera pudiera verificar
 ideología y que podía atraer a ejecutivos de corporaciones sin perder
 encanto ante la comunidad hacker.  "Las implicaciones de la etiqueta
 _open source_ es que intentamos convencer al mundo corporativo de
-adoptar nueestras formas por razones económicas, desinteresadas y no
+adoptar nuestras formas por razones económicas, desinteresadas y no
 ideológicas" [decía Eric Raymond en
 1998](http://www.linuxjournal.com/article/2918).  Lo que Raymond y
 O'Reilly no pudieron comprender, o decidieron omitir, es que su esfuerzo
@@ -600,7 +600,7 @@ Raymond dijo que "la reunión cumbre fue organizada por _O'Reilly \&
 Associates_, una compañía que fue simbiótica con el movimiento _open
 source_ por muchos años".  Que el término _open source_ haya tenido solo
 unos pocos meses en el momento en que Raymond escribió esto no importó
-demasiado.  La historia es algo que brillante agentes de relaciones
+demasiado.  La historia es algo que brillantes agentes de relaciones
 públicas pueden arreglar facilmente.  "Mientras pensamos en esto,
 dijimos, ¡dios mío!, es también una gran oportunidad en cuanto a
 relaciones publicas --somos una compañía que ha aprendido a trabajar las
@@ -710,11 +710,11 @@ A finales de los '90, O’Reilly comenzó a celebrar el "infoware" como la
 próxima [gran
 cosa](http://oreilly.com/catalog/opensources/book/tim.html) después del
 "hardware" y el "software".  La premisa era que las compañías de
-Internet como _Yahoo!_ y _E-Trade_ no estaban en el negocio del software
+Internet como _Yahoo!_ e _E-Trade_ no estaban en el negocio del software
 sino en el del "infoware".  Su funcionalidad era bastante básica
---permiten a clientes comprar o buscar algo en un mapa-- por lo que la
-propuesta de valor yace en la información que entregan, no en las
-funciones del software que ejecutan.  Todos esos sofisticados servicios
+--permitían a clientes comprar o buscar algo en un mapa-- por lo que la
+propuesta de valor yacía en la información que entregaban, no en las
+funciones del software que ejecutaban.  Todos esos sofisticados servicios
 de Internet que hacen posible que exista el _infoware_ estaban armados
 en base a software _open source_.  Al mostrar que el _infoware_ era el
 futuro y que el software _open source_ era su componente esencial,
@@ -739,7 +739,7 @@ desagradables litigios relacionados con su sede central en Sebastopol,
 California.  Despidió a un cuarto del personal y la situación parecía
 bastante terrible.
 
-Así nació una conferencia de alta perfil, dirigida explícitamente a
+Así nació una conferencia de alto perfil, dirigida explícitamente a
 ayudar a los VIPs de _Silicon Valley_ a "ver la forma que tendrá el
 futuro".  Pronto O'Reilly [expandía la idea de la _web
 2.0_](http://gossgrove.com/sites/default/files/web2009_websquared-whitepaper.pdf)
@@ -776,7 +776,7 @@ conferencia _Web 2.0_.  "En contraste, _Web 2.0_ es nuestra primera
 con el foco puesto en el panorama general."
 
 [^early]: Algo así como "adoptante temprana", es un término que se usa
-para nombrar a las personas que les gusta probar nuevas tecnologías y
+para nombrar a las personasa las que les gusta probar nuevas tecnologías y
 que por lo tanto son las primeras en recomendarlas (nota de la
 traducción).
 
@@ -791,7 +791,7 @@ tenido una propuesta aun peor si hubiera seguido el manual de O'Reilly y
 se hubiera convertido en una compañía de la _Web 2.0_.)  Además,
 compañías que no siguieron el mantra de la _Web 2.0_ --como _Barnes \&
 Noble_, que O'Reilly ejemplificó como una compañía que a diferencia de
-_Amazon_, no estaba aprendiendo de la inteligencia colectiva --no
+_Amazon_, no estaba aprendiendo de la inteligencia colectiva –,no
 quebraron.
 
 Para el 2007 O'Reilly [admitía sin
@@ -856,7 +856,7 @@ revolucion de la _Web 2.0_.  Por ejemplo, [las reflexiones de
 O'Reilly](http://radar.oreilly.com/2008/09/why-dell-dot-com-is-more-enterprise.html)
 sobre las "Empresas 2.0".  ¿Qué son, exactamente?  Bueno, es la misma
 empresa --por lo poco que sabemos, podrían estar fabricando
-chirimbolos-- pero que aprendió algo de _Google_ y _Amazon_, parar
+chirimbolos-- pero que aprendió algo de _Google_ y _Amazon_, para
 encontrar una forma de aprovechar la "inteligencia colectiva".  Para
 O'Reilly, _Walmart_ es la _Empresa 2.0_ por excelencia simplemente
 porque monitorea en tiempo real todo lo que compran sus clientes.
@@ -1066,9 +1066,7 @@ digna de Frank Luntz, O'Reilly crea mediante ingeniería memética un buen
 eufemismo --"ingeniería memética"-- que describe lo que antes se conocía
 como "propaganda".[^meme]
 
-[^meme]: El _meme_ es un análogo del gen en cuanto a unidad de
-información cultural, propuesto por Richard Dawkins en _El gen egoísta_
-(nota de la traducción).
+[^meme]: En su libro El gen egoísta, Richard Dawkins define al _meme_ como una unidad de información cultural que se transfiere de un individuo al otro de forma análoga al gen.
 
 El objetivo putativo del ensayo es mostrar cómo se puede hacer
 ingeniería memética de un nuevo significado para las tecnologías P2P
@@ -1077,14 +1075,14 @@ amenazantes a la industria del entretenimiento.  Liderando con el
 ejemplo, O'Reilly invoca su éxito en renombrar software libre como _open
 source_.  La llave del éxito, dice, está en "darle un giro completamente
 diferente a lo que anteriormente se consideraba el 'mismo espacio'".
-Para lograrlo, O'Reilly y sus acólitos "cambiaron la lista canónica de
+Para lograrlo, O'Reilly y sus acólitos cambiaron “la lista canónica de
 proyectos que queríamos sostener como ejemplos del movimiento", al mismo
-tiempo que articulaban los objetivos más amplios a los que servían esos
-proyectos.  Continúa refritando una narrativa familiar: O'Reilly pone la
+tiempo que articularon los objetivos más amplios a los que servían esos
+proyectos.  De esta forma se continúa refritando una narrativa familiar: O'Reilly pone la
 Internet en el centro de todo, vinculando algunos proyectos de software
 libre como Apache o Perl con _startups_ y servicios exitosos.  Como
 resultado, el objetivo del movimiento ya no era la producción de un
-sistema operativo completamente libre, independiente y funcional sino la
+sistema operativo completamente libre, independiente y funcional, sino la
 adoración de los dioses de Internet.
 
 Otro ejemplo de ingeniería memética es su intento de establecer un
@@ -1096,8 +1094,7 @@ ejemplo,
 que _Unix_ fue construido y mejorado bajo el espíritu del _open source_
 porque sus animadoras académicas ya intercambiaban código entre ellas en
 los '70.  Que aquellos intercambios hayan sido parte normal de la
-despreocupada cultura académica y poco que ver con actitudes filosóficas
-con respecto al código no debilita el argumento;  de hecho, es
+despreocupada cultura académica y hayan tenido poco que ver con actitudes filosóficas respecto al código, no debilita el argumento;  de hecho, es
 recuperado como una ventaja, ya que el modelo del _open source_ puede
 presentarse como una extensión del método científico.  (Ya que O'Reilly
 jugó un papel importante en la producción de manuales de _Unix_, su
@@ -1119,9 +1116,7 @@ la que se basaba fue la que permitió a los proyectos _open source_
 ensamblarse en sistemas más grandes como _Linux_, sin una coordinación
 explícita entre desarrolladores".
 
-¿Podría ser que O'Reilly tiene razón en proclamar que el _open source_
-tiene una historia previa a 1998?  Wikipedia no nos dice mucho.  En una
-[charla en Berkeley](http://www.youtube.com/watch?v=0D3_2iCldUA),
+¿Podría ser que O'Reilly tenga razón en proclamar una historia del _open source_  previa a 1998? Wikipedia no nos dice mucho.  En una [charla en Berkeley](http://www.youtube.com/watch?v=0D3_2iCldUA),
 O'Reilly admitió que fue el editor del artículo en _Wikipedia_ sobre el
 libro.  O'Reilly se encuentra perfectamente posicionado para controlar
 nuestro discurso sobre la tecnología: como editor, puede sacar todos los
@@ -1137,8 +1132,8 @@ sobre el tema, discurre sobre cuán estrecha es la definición de la
 "ciberguerra" y sugiere expandirla para que incluya conflictos entre
 estados e individuos.  Ahora bien, ¿quién se beneficia de esta
 definición más amplia de la "ciberguerra"?  ¿Podrían ser aquellos que,
-como O'Reilly, no son capaces aun de captar una porción de la torta del
-presupuesto para ciberseguridad?  Si la ingeniería memética triunfa,
+como O'Reilly, no son capaces aún de captar una porción de la torta del
+presupuesto para ciberseguridad?  Si la ingeniería memética triunfa
 podríamos terminar clasificando hechos que deberían tratarse como
 crímenes, espionaje o terrorismo bajo la etiqueta ambigua de la
 "guerra".  Tal reformulación sería desastrosa para las libertades
@@ -1146,7 +1141,7 @@ civiles y la privacidad y solo exacerbarían la ya horrible persecución
 legal a hacktivistas.  Probablemente no falte mucho para que el imperio
 mediático de O'Reilly incorpore una "corresponsal de ciberguerra".
 Vistas a través del prisma de la ingeniería memética, las actividades de
-O'Reilly parecen aun más siniestras.  Sus "corresponsales" del _Radar_
+O'Reilly parecen aún más siniestras.  Sus "corresponsales" del _Radar_
 no trabajan sobre temas, sino sobre memes y epistemes, reformulando
 constantemente los problemas públicos de acuerdo a las plantillas
 profetizadas por O'Reilly.  Recientemente, por ejemplo, se ha interesado
@@ -1179,7 +1174,7 @@ meme a definirse --ya sea _open source_ o _web 2.0_-- es puesto en el
 centro, mientras que otros términos se colocan como conectados a él.
 
 La naturaleza exacta de estas conexiones raramente es explicada, lo que
-resulta aun mejor, porque la lectora eventualmente las interpreta con su
+resulta aún mejor, porque la lectora eventualmente las interpreta con su
 propia agenda en mente.  Es por esto que el nombre del meme tiene que
 ser lo más inclusivo posible, porque nunca se sabe quienes serán tus
 aliados.  "Una parte importante de la ingeniería memética es encontrar
@@ -1191,9 +1186,9 @@ involucrarse y ayudar a convertirlo en realidad.  Sus conferencias, por
 ejemplo, juegan un rol crucial: "cuando observas nuestros eventos, en
 última instancia se trata de rescribir el mapa memético en cada uno de
 ellos.  La _web 2.0_ se trataba de distinguir las empresas que
-sobrevivieron la crisis de las _puntocom_ de aquellas que no.  Los
-_estratos_ se tratan de definir el nuevo campo de la ciencia de datos.
-La _velocidad_ se trata de dejar en claro que las aplicaciones de la web
+sobrevivieron la crisis de las _puntocom_ de aquellas que no:  los
+_estratos_ se tratan de definir en el nuevo campo de la ciencia de datos;
+la _velocidad_ se trata de dejar en claro que las aplicaciones de la web
 dependen de gente manteniéndolas en pie, al contrario de generaciones
 pasadas de software que eran meros artefactos."
 
@@ -1214,7 +1209,7 @@ en su búsqueda por [hacer ingeniería
 memética](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
 hacia el "gobierno 2.0".  El escenario del software libre se repite: los
 esfuerzos para las reformas profundamente políticas ya no se presentan
-como "cruzadas morales" sino que se re-inventan como meros intentos de
+como "cruzadas morales", sino que se re-inventan como meros intentos de
 incrementar la eficiencia y promover la innovación.
 
 Antes de que O'Reilly comenzara la búsqueda de un meme que sea un gran
@@ -1233,12 +1228,11 @@ promoverían la economía.
 
 [^foia]: La _Ley de libertad de información_ es una ley federal
 estadounidense que desde el '66 permitiría acceso a las ciudadanas a
-información clasificada por agencias estatales, con algunas excepciones
-(nota de la traducción.)
+información clasificada por agencias estatales, con algunas excepciones (nota de las editoras).
 
 Muchos de estos esfuerzos comenzaron mucho antes que la _web_ y no
-tenían una conexión obvia con la cultura de Internet, ni hablar de la
-_web 2.0_.  Ocasionalmente, estos cuatro esfuerzos --mayor eficiencia,
+tenían una conexión obvia con la cultura de Internet. Ni hablar de la
+_web 2.0_…  Ocasionalmente, estos cuatro esfuerzos --mayor eficiencia,
 deliberación, transparencia e innovación-- se superpusieron, pero han
 sido llevados por dos agendas distintas.  Por un lado, el grupo
 interesado en la eficiencia y la innovación realizó campañas de carácter
@@ -1259,12 +1253,12 @@ ciudadana significativa en la elaboración de políticas o el incremento
 de la responsabilidad.
 
 No es sorprendente que la mayoría de los estados modernos prefieran los
-aspectos económicos de la digitalización que los políticos.  Los
+aspectos económicos de la digitalización antes que los aspectos políticos.  Los
 esquemas innovadores, como los sistemas de estacionamiento inteligentes,
 pueden ayudar en el momento de las elecciones; la publicación de
 deliberaciones gubernamentales probablemente cause dolores de cabeza.
 Los gobiernos de derecha tienen una razón más para celebrar el
-economicismo del primer grupo: la publicación de información agregada
+economicismo: la publicación de información agregada
 sobre la performance de proveedores de servicios públicos puede ayudar a
 convencer al electorado que esos servicios deberían ser provistos por el
 sector privado.
@@ -1286,7 +1280,7 @@ del gobierno abierto.  La acuñación de términos pegadizos como "gobierno
 abierto" tenía como objetivo la producción de una noción muy diferente
 de apertura.
 
-Inicialmente, O'Reilly tuve un rol muy pequeño en este proceso.  El meme
+Inicialmente O'Reilly tuvo un rol muy pequeño en este proceso.  El meme
 del _open source_ fue lo suficientemente promiscuo como para redefinir
 muchos términos importantes sin su intervención.  Pero en el 2007,
 O'Reilly [organizó otra cumbre](http://www.opengovdata.org/) a la que
@@ -1297,13 +1291,13 @@ ellos enfocados al problema puramente técnico de asegurar que, una vez
 que los datos fueran publicados por el estado, nada los pudiera detener.
 Mientras estos "datos abiertos" fueran líquidos y reutilizables, otros
 podrían construir sobre ellos.  Ni el proceso político que llevaría a la
-publicación de los datos ni sus contenidos fueron considerados
+publicación de los datos, ni sus contenidos fueron considerados
 relevantes para esta apertura.  Entonces, los datos acerca de cuántas
 mascadoras de chicle envía Singapur a la cárcel serían "abiertos"
 siempre que el gobierno singapurense los compartiera en formatos
-adecuados.  Por qué los compartiría resulta irrelevante.
+adecuados.  Por qué los compartiría, resulta irrelevante.
 
-Con el triunfo de Obama, Washington se convirtió en territorio de caza
+Con el triunfo de Obama Washington se convirtió en territorio de caza
 para todo lo que sea 2.0.  Aquí es donde O'Reilly volcó toda su atención
 en la reforma estatal, lanzando y manipulando varios memes a la vez
 --"gobierno 2.0", "gobierno abierto" y "Estado como plataforma"-- para
@@ -1326,7 +1320,7 @@ _World Wide Web_, sino un renacimiento luego de la edad media de la
 burbuja de las _puntocom_, un redescubrimiento del poder escondido en el
 diseño original de la _WWW_.  De la misma forma, el _gobierno 2.0_ no es
 un nuevo tipo de gobierno, sino un gobierno despojado hasta el núcleo,
-redescubierto y reimaginado como si fuera la primera vez."
+redescubierto y reimaginado como si fuera la primera vez".
 
 Una vez establecido que los nuevos paradigmas del Estado pueden
 modelarse a semejanza del éxito de las empresas tecnológicas, O'Reilly
@@ -1359,7 +1353,7 @@ la transparencia:
 > comprenden esta distinción y están proveyendo datos para ambos
 > propósitos.
 
-[^sunlight]: Una fundación sobre datos abiertos (nota de la traducción).
+[^sunlight]: Una fundación sobre datos abiertos (nota de las editoras).
 
 Vivek Kundra es el ex-jefe de información del gobierno estadounidense,
 que supervisó el lanzamiento de un portal llamado
@@ -1463,7 +1457,7 @@ público común, la _participación 2.0_ se trata de individuos atomizados
 encontrando o contribuyendo los datos correctos para resolver algún
 problema, sin alterar el sistema mismo.  (Estas ciudadanas se juntan en
 _hackatones_ para ayudar a _Silicon Valley_ a liberar datos estatales
-sin cobrar, volviendo a una cómoda inactividad después.)  Siguiendo el
+sin cobrar, volviendo a una cómoda inactividad después).  Siguiendo el
 modelo del _open source_, las ciudadanas son invitadas a encontrar
 _bugs_ en el sistema, no a preguntar si los objetivos del sistema son
 adecuados.  Que la política pueda inspirar a algo más ambicioso que la
@@ -1476,13 +1470,13 @@ pasión](http://radar.oreilly.com/2009/04/change-we-need-diy-civic-scale.html).
 "Hay una cierta pasividad incluso en nuestro activismo: pensamos que
 todo lo que podemos hacer es protestar", escribe.  "La acción colectiva
 ha devenido en queja colectiva.  O como mucho, en un esfuerzo colectivo
-por juntar fondos."  En contraste, urge a las ciudadanas a "aplicar el
+por juntar fondos".  En contraste, urge a las ciudadanas a "aplicar el
 espíritu DIY[^diy] a escala cívica".  Para ilustrar el espíritu DIY en
 acción, [le gusta
 invocar](http://radar.oreilly.com/2009/04/change-we-need-diy-civic-scale.html)
 el ejemplo de la comunidad hawaiana que, luego de un período de inacción
-estatal, juntó 4 millones de dólares para reparar un parque local
-esencial para su forma de vida.  Para O'Reilly, el ejemplo hawaiano
+estatal juntó 4 millones de dólares para reparar un parque local
+esencial para su forma de vida.  Para O'Reilly el ejemplo hawaiano
 revela la disposición natural de las ciudadanas ordinarias a resolver
 sus propios problemas.  Los estados deberían aprender de Hawaii y
 descargar más trabajo en sus ciudadanas.  Esta es la visión clave detrás
@@ -1506,7 +1500,7 @@ Sus prescripciones a menudo contienen una pizca de verdad, pero casi
 siempre exagera los beneficios mientras ofusca los costos.  Una de las
 razones por las que los estados no eligen descargar ciertos servicios al
 sector privado no se deben a que piensen que pueden hacer un mejor
-trabajo en cuando a innovación o eficiencia sino porque existen otras
+trabajo en cuando a innovación o eficiencia, sino porque existen otras
 consideraciones --como justicia y acceso igualitario-- que están en
 juego.  "Si _Head Start_ fuera una _startup_ iría a la quiebra.  No
 funciona", remarcaba en una [entrevista
@@ -1514,7 +1508,7 @@ reciente](http://thehill.com/blogs/hillicon-valley/interviews-profiles).
 Exactamente, por eso _Head Start_[^head_start] no lo es.
 
 [^head_start]: _Head Start_ es un programa estatal que desde 1965 provee
-ayuda escolar a niñas de bajos recursos (nota de la traducción).
+ayuda escolar a niñas de bajos recursos (nota de las editoras).
 
 La pregunta real no es si las desarrolladoras deberían poder enviar
 _apps_ a la _App Store_, sino si las ciudadanas deberían pagar por ellas
@@ -1537,8 +1531,8 @@ Estado como plataforma\] es la forma correcta de enmarcar la pregunta
 del _gobierno 2.0_.
 
 [^api]: Una _API_ en este contexto es una forma de obtener datos de una
-plataforma desde otra, usando un protocolo público (nota de la
-traducción).
+plataforma desde otra, usando un protocolo público (nota de las
+editoras).
 
 Una persona que está muy ocupada en volver realidad el meme del _Estado
 como plataforma_ es David Cameron en el Reino Unido.  La idea de [_Big
@@ -1674,8 +1668,7 @@ aplicarse de la misma forma al Estado".
 
 ¿Pero es cierto?  Aplicado a la política, todo este discurso sobre los
 bazares, motivaciones pre-existentes e interés propio trata a la
-ciudadanía como si fuera reducible a las relaciones de mercado --otra
-forma de _charla loca_.  Tampoco se alinea con las aspiraciones de
+ciudadanía como si fuera reducible a las relaciones de mercado.  Tampoco se alinea con las aspiraciones de
 activar la ciudadanía implícitas en el "espíritu DIY a escala cívica".
 Por supuesto, con un poco de astucia en las relaciones públicas, podría
 decirse que las hawaianas que reconstruyeron su parque tenían
@@ -1690,7 +1683,7 @@ imprimir armas en casa --¡gracias impresoras 3D!-- y ya estamos
 altamente motivadas para mantenernos con vida?
 
 [^big_pharma]: _Big Pharma_ es el nombre colectivo para las
-corporaciones farmacéuticas (nota de la traducción).
+corporaciones farmacéuticas (nota de las editoras).
 
 Una vez que seguimos a [O'Reilly en su
 exhortación](http://radar.oreilly.com/2009/04/change-we-need-diy-civic-scale.html)
@@ -1731,7 +1724,7 @@ sistema de salud produzca el mismo efecto",
 diferente de la de la provisión de salud pública?  ¿Qué pasa entonces?
 
 Sus intentos de hacer ingeniería memética sobre cómo pensamos la
-política son aun más perturbadores por el carácter profundamente
+política son aún más perturbadores por el carácter profundamente
 reduccionista y antidemocrático de su propia posición política.
 Positivista de corazón, O'Reilly cree que existe sólo una respuesta a
 los problemas de políticas públicas, que es que el trabajo del gobierno
@@ -1784,7 +1777,7 @@ malo".  Los bancos centrales son elegantes y simples; solo hacen cosas,
 en lugar de sucumbir a la política.  "\[En los bancos centrales\]
 tenemos un par de palancas y las manipulamos para ver si llegamos a
 donde queremos ir.  Así es como me gustaría vernos pensar sobre los
-procesos regulatorios del Estado."
+procesos regulatorios del Estado".
 
 Expandiendo esta noción, revela su tecnócrata inherente:
 
@@ -1816,7 +1809,7 @@ esta forma.  SOPA y PIPA eran malas leyes con un tremendo sobrealcance,
 pero proclamar que la industria del entretenimiento no tiene
 reivindicaciones legítimas contra la piratería suena bizarro.[^piracy]
 
-[^piracy]: WTF (nota de la traducción.)
+[^piracy]: WTF (nota de las editoras).
 
 Lo que subyace a su fe en la regulación algorítmica es la creencia
 inocente en que el _big data_, aprovechado a través de la inteligencia
@@ -1848,7 +1841,7 @@ O'Reilly, sino porque es la única forma de asegurar que todas las
 reivindicaciones son tenidas en cuenta antes que las políticas sean
 implementadas[^wtf2].
 
-[^wtf2]: WTF (nota de la traducción).
+[^wtf2]: WTF (nota de las editoras).
 
 El tratamiento que da a la retroalimentación como un fenómeno esencial
 de Internet es clásico de O'Reilly.  Siempre y cuando la _regulación
